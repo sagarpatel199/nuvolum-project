@@ -1,6 +1,5 @@
 import React from "react";
 import { Center, VStack } from "@chakra-ui/react";
-import "../style/GridStyle.css";
 
 const Header = () => {
   return (
